@@ -1,0 +1,16 @@
+server:
+  port: 7000
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri:
+          username: wxijun
+          password: wxjun027
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8889/eureka/,http://localhost:8890/eureka/
