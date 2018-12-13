@@ -11,6 +11,7 @@
         <module name="config-server" />
         <module name="eureka-client" />
         <module name="eureka-server" />
+        <module name="Ribbon" />
         <module name="springSetMeal" />
         <module name="user-center" />
         <module name="zuul-center" />
@@ -22,6 +23,7 @@
       <module name="config-server" target="1.8" />
       <module name="eureka-client" target="1.8" />
       <module name="eureka-server" target="1.8" />
+      <module name="Ribbon" target="1.8" />
       <module name="springSetMeal" target="1.8" />
       <module name="user-center" target="1.8" />
       <module name="zuul-center" target="1.8" />

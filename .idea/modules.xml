@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ribbon/Ribbon.iml" filepath="$PROJECT_DIR$/Ribbon/Ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-client/config-clinent.iml" filepath="$PROJECT_DIR$/config-client/config-clinent.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-config-clinent/config-clinent.iml" filepath="$PROJECT_DIR$/springcloud-config-clinent/config-clinent.iml" />

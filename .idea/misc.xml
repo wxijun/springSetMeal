@@ -16,6 +16,7 @@
         <option value="$PROJECT_DIR$/user-center/pom.xml" />
         <option value="$PROJECT_DIR$/config-server/pom.xml" />
         <option value="$PROJECT_DIR$/config-clinent/pom.xml" />
+        <option value="$PROJECT_DIR$/Ribbon/pom.xml" />
       </list>
     </option>
   </component>
