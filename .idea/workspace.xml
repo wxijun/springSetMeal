@@ -2,16 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2f6b3e4-7b3a-4f1d-b45a-10f7fa90db15" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/eureka-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client/src/main/java/com/example/trample/eurekaclient/EurekaClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client/src/main/java/com/example/trample/eurekaclient/EurekaClientApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/java/com/example/trample/springSetMeal/SpringSetMealApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/java/com/example/trample/springSetMeal/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/example/trample/UserCenter/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/java/com/example/trample/springSetMeal/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/example/trample/UserCenter/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/java/com/example/trample/springSetMeal/service/Impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/example/trample/UserCenter/service/Impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/java/com/example/trample/springSetMeal/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/example/trample/UserCenter/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/java/com/example/trample/UserCenter/UserCenterApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/java/com/example/trample/UserCenter/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/java/com/example/trample/UserCenter/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/java/com/example/trample/UserCenter/service/Impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/java/com/example/trample/UserCenter/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/src/test/java/com/example/trample/UserCenter/UserCenterApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springSetMeal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springSetMeal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-server/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-server/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-server/src/main/java/com/example/trample/springcloudconfigserver/ConfigServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-server/src/test/java/com/example/trample/springcloudconfigserver/SpringcloudConfigServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul-center/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/zuul-center/src/main/resources/application.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/eureka-client/target/" />
     <ignored path="$PROJECT_DIR$/eureka-server/target/" />
@@ -19,6 +39,11 @@
     <ignored path="$PROJECT_DIR$/UserCenter/target/" />
     <ignored path="$PROJECT_DIR$/zuul-center/target/" />
     <ignored path="$PROJECT_DIR$/springcloud-config-server/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud-config-clinent/target/" />
+    <ignored path="$PROJECT_DIR$/config-server/target/" />
+    <ignored path="$PROJECT_DIR$/user-center/target/" />
+    <ignored path="$PROJECT_DIR$/config-clinent/target/" />
+    <ignored path="$PROJECT_DIR$/config-client/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,21 +66,30 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="SpringcloudConfigServerApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springcloud-config-server/src/main/java/com/example/trample/springcloudconfigserver/SpringcloudConfigServerApplication.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="161">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springcloud-config-server/src/main/resources/application.yml">
+      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config-client/src/main/resources/bootstrap.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="230">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config-client/src/main/java/com/example/trample/springcloudconfigclinent/controller/TestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62">
+              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="26" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -73,6 +107,7 @@
     <findStrings>
       <find>netflix</find>
       <find>spring-cloud-starter-eureka</find>
+      <find>springcloud</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -91,7 +126,6 @@
         <option value="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/eureka-client/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/UserCenter/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/zuul-center/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/eureka-client/src/main/java/com/example/trample/eurekaclient/controller/eurekaClientController.java" />
         <option value="$PROJECT_DIR$/eureka-client/src/main/java/com/example/trample/eurekaclient/controller/EurekaClientController.java" />
         <option value="$PROJECT_DIR$/zuul-center/src/main/java/com/example/trample/zuulcenter/zuul/TokenFilter.java" />
@@ -99,7 +133,29 @@
         <option value="$PROJECT_DIR$/eureka-server/src/main/java/com/example/trample/springSetMeal/EurekaServerApplication.java" />
         <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-config-server/src/main/java/com/example/trample/springcloudconfigserver/SpringcloudConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud-config-server/src/main/java/com/example/trample/springcloudconfigserver/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/springcloud-config-clinent/src/main/java/com/example/trample/springcloudconfigclinent/SpringcloudConfigClinentApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud-config-clinent/src/main/java/com/example/trample/springcloudconfigclinent/ConfigClinentApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud-config-clinent/src/main/java/com/example/trample/springcloudconfigclinent/ConfigApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud-config-clinent/src/main/java/com/example/trample/springcloudconfigclinent/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/springcloud-config-clinent/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/springcloud-config-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springcloud-config-clinent/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/springcloud-config-clinent/src/main/java/com/example/trample/springcloudconfigclinent/ConfigClinetApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud-config-server/src/main/java/com/example/trample/springcloudconfigserver/ConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-config-clinent/pom.xml" />
+        <option value="$PROJECT_DIR$/user-center/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-center/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/config-clinent/src/main/java/com/example/trample/springcloudconfigclinent/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/config-clinent/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/src/main/java/com/example/trample/springcloudconfigserver/ConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/config-client/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/config-client/src/main/java/com/example/trample/springcloudconfigclinent/controller/TestController.java" />
       </list>
     </option>
   </component>
@@ -115,16 +171,21 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="321" />
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="169" />
+    <option name="y" value="73" />
     <option name="width" value="1003" />
-    <option name="height" value="661" />
+    <option name="height" value="711" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,68 +196,25 @@
             <path>
               <item name="springSetMeal" type="b2602c69:ProjectViewProjectNode" />
               <item name="springSetMeal" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="config-client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springSetMeal" type="b2602c69:ProjectViewProjectNode" />
               <item name="springSetMeal" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="config-client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springSetMeal" type="b2602c69:ProjectViewProjectNode" />
               <item name="springSetMeal" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springSetMeal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springSetMeal" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springSetMeal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springSetMeal" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloudconfigserver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springSetMeal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springSetMeal" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springSetMeal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springSetMeal" type="462c0819:PsiDirectoryNode" />
-              <item name="zuul-center" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springSetMeal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springSetMeal" type="462c0819:PsiDirectoryNode" />
-              <item name="zuul-center" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springSetMeal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springSetMeal" type="462c0819:PsiDirectoryNode" />
-              <item name="zuul-center" type="462c0819:PsiDirectoryNode" />
+              <item name="config-client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springSetMeal" type="b2602c69:ProjectViewProjectNode" />
               <item name="springSetMeal" type="462c0819:PsiDirectoryNode" />
-              <item name="zuul-center" type="462c0819:PsiDirectoryNode" />
+              <item name="config-client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -204,26 +222,26 @@
             <path>
               <item name="springSetMeal" type="b2602c69:ProjectViewProjectNode" />
               <item name="springSetMeal" type="462c0819:PsiDirectoryNode" />
-              <item name="zuul-center" type="462c0819:PsiDirectoryNode" />
+              <item name="config-client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zuulcenter" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloudconfigclinent" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springSetMeal" type="b2602c69:ProjectViewProjectNode" />
               <item name="springSetMeal" type="462c0819:PsiDirectoryNode" />
-              <item name="zuul-center" type="462c0819:PsiDirectoryNode" />
+              <item name="config-client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zuulcenter" type="462c0819:PsiDirectoryNode" />
-              <item name="zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloudconfigclinent" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springSetMeal" type="b2602c69:ProjectViewProjectNode" />
               <item name="springSetMeal" type="462c0819:PsiDirectoryNode" />
-              <item name="zuul-center" type="462c0819:PsiDirectoryNode" />
+              <item name="config-client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -232,7 +250,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
@@ -244,16 +261,17 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud-config-server/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/config-client/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.trample.springcloudconfigclinent" />
       <recent name="com.example.trample.UserCenter" />
     </key>
   </component>
@@ -269,7 +287,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ZuulCenterApplication">
+  <component name="RunManager" selected="Spring Boot.ConfigClinetApplication">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -289,14 +307,38 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="eureka-client" />
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="user-center" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="ConfigClinetApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="config-client" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.trample.eurekaclient.*" />
+          <option name="PATTERN" value="com.example.trample.springcloudconfigclinent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.trample.springcloudconfigclinent.ConfigClinetApplication" />
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="config-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.trample.springcloudconfigserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.trample.springcloudconfigserver.ConfigServerApplication" />
+    </configuration>
+    <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-client" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.trample.eurekaclient.EurekaClientApplication" />
     </configuration>
     <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
@@ -310,7 +352,7 @@
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.trample.springSetMeal.EurekaServerApplication" />
     </configuration>
     <configuration name="UserCenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="UserCenter" />
+      <module name="user-center" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.trample.UserCenter.*" />
@@ -352,17 +394,20 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.EurekaServerApplication" />
       <item itemvalue="Spring Boot.EurekaClientApplication" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
       <item itemvalue="Spring Boot.UserCenterApplication" />
       <item itemvalue="Spring Boot.ZuulCenterApplication" />
+      <item itemvalue="Spring Boot.ConfigClinetApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.UserCenterApplication" />
-        <item itemvalue="Spring Boot.ZuulCenterApplication" />
-        <item itemvalue="Spring Boot.EurekaClientApplication" />
+        <item itemvalue="Spring Boot.ConfigClinetApplication" />
+        <item itemvalue="Spring Boot.ConfigServerApplication" />
         <item itemvalue="Spring Boot.EurekaServerApplication" />
+        <item itemvalue="Spring Boot.ZuulCenterApplication" />
+        <item itemvalue="Spring Boot.UserCenterApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -378,20 +423,22 @@
       <updated>1544597272759</updated>
       <workItem from="1544597286162" duration="270000" />
       <workItem from="1544597602174" duration="159000" />
-      <workItem from="1544597796564" duration="10854000" />
+      <workItem from="1544597796564" duration="30596000" />
+      <workItem from="1544686438655" duration="5270000" />
+      <workItem from="1544691862314" duration="678000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11283000" />
+    <option name="totallyTimeSpent" value="36973000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50075644" side_tool="true" weight="0.6727273" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32979852" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.14846236" side_tool="true" weight="0.47768596" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.23071104" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -399,18 +446,18 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.46360153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4181818" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.3289256" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3289256" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.36528927" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.85153764" visible="true" weight="0.4181818" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19440243" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31240544" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -450,6 +497,30 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="66" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/java/com/example/trample/springcloudconfigserver/ConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/eureka-client/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -457,92 +528,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springSetMeal.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/example/trample/UserCenter/UserCenterApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka-client/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-291">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/example/trample/UserCenter/UserCenterApplication.java" />
     <entry file="file://$PROJECT_DIR$/eureka-client/src/main/java/com/example/trample/eurekaclient/EurekaClientApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding>
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/example/trample/UserCenter/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-174">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding>
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/example/trample/UserCenter/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/example/trample/UserCenter/service/Impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka-client/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/example/trample/UserCenter/entity/User.java" />
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/example/trample/UserCenter/service/UserService.java" />
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/example/trample/UserCenter/service/Impl/UserServiceImpl.java" />
     <entry file="file://$PROJECT_DIR$/zuul-center/src/main/java/com/example/trample/zuulcenter/ZuulCenterApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-          <folding>
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -550,25 +550,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="48" column="44" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#564#565#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/resources/application.yml" />
     <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-core/5.1.3.RELEASE/spring-core-5.1.3.RELEASE.jar!/org/springframework/core/Ordered.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -587,22 +572,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="106">
           <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/example/trample/UserCenter/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/example/trample/UserCenter/controller/UserController.java" />
     <entry file="file://$PROJECT_DIR$/eureka-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -617,24 +590,115 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-config-server/src/main/java/com/example/trample/springcloudconfigserver/SpringcloudConfigServerApplication.java">
+    <entry file="file://$PROJECT_DIR$/eureka-client/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="69">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-118">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-config-clinent/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/springcloud-config-clinent/src/main/java/com/example/trample/springcloudconfigclinent/controller/TestController.java" />
+    <entry file="file://$PROJECT_DIR$/springcloud-config-clinent/src/main/resources/bootstrap.yml" />
+    <entry file="file://$PROJECT_DIR$/springcloud-config-server/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/springcloud-config-clinent/src/main/java/com/example/trample/springcloudconfigclinent/ConfigClinetApplication.java" />
+    <entry file="file://$PROJECT_DIR$/springcloud-config-server/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/springcloud-config-clinent/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/springcloud-config-server/src/main/java/com/example/trample/springcloudconfigserver/ConfigServerApplication.java" />
+    <entry file="file://$PROJECT_DIR$/user-center/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-core/5.1.3.RELEASE/spring-core-5.1.3.RELEASE.jar!/org/springframework/util/PropertyPlaceholderHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-beans/5.1.3.RELEASE/spring-beans-5.1.3.RELEASE.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="260" selection-start-line="260" selection-end-line="260" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/zuul-center/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="78" />
+        <state relative-caret-position="26">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-config-server/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/config-clinent/src/main/java/com/example/trample/springcloudconfigclinent/controller/TestController.java" />
+    <entry file="file://$PROJECT_DIR$/config-clinent/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/config-clinent/src/main/resources/bootstrap.yml" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state relative-caret-position="350">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/java/com/example/trample/springcloudconfigserver/ConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="66" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client/src/main/java/com/example/trample/springcloudconfigclinent/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="26" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -690,7 +754,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>springSetMeal</last-edited>
+          <last-edited>zuul-center</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -725,5 +789,8 @@
         </settings>
       </state>
     </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
   </component>
 </project>

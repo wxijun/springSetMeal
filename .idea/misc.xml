@@ -12,6 +12,10 @@
         <option value="$PROJECT_DIR$/UserCenter/pom.xml" />
         <option value="$PROJECT_DIR$/zuul-center/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-config-clinent/pom.xml" />
+        <option value="$PROJECT_DIR$/user-center/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/config-clinent/pom.xml" />
       </list>
     </option>
   </component>

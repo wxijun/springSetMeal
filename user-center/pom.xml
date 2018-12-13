@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example.trample</groupId>
-	<artifactId>UserCenter</artifactId>
+	<artifactId>user-center</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>UserCenter</name>
+	<name>user-center</name>
 	<description>The first Spring Book project,Trample</description>
 
 	<properties>

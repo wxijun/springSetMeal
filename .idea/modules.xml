@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/UserCenter/UserCenter.iml" filepath="$PROJECT_DIR$/UserCenter/UserCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client/config-clinent.iml" filepath="$PROJECT_DIR$/config-client/config-clinent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-config-clinent/config-clinent.iml" filepath="$PROJECT_DIR$/springcloud-config-clinent/config-clinent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-config-server/config-server.iml" filepath="$PROJECT_DIR$/springcloud-config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka-client/eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/springSetMeal.iml" filepath="$PROJECT_DIR$/springSetMeal.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/springSetMeal.iml" filepath="$PROJECT_DIR$/eureka-server/springSetMeal.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springcloud-config-server/springcloud-config-server.iml" filepath="$PROJECT_DIR$/springcloud-config-server/springcloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-center/user-center.iml" filepath="$PROJECT_DIR$/user-center/user-center.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul-center/zuul-center.iml" filepath="$PROJECT_DIR$/zuul-center/zuul-center.iml" />
     </modules>
   </component>

@@ -6,20 +6,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="config-client" />
+        <module name="config-clinent" />
+        <module name="config-server" />
         <module name="eureka-client" />
         <module name="eureka-server" />
-        <module name="springcloud-config-server" />
         <module name="springSetMeal" />
-        <module name="UserCenter" />
+        <module name="user-center" />
         <module name="zuul-center" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="config-client" target="1.8" />
+      <module name="config-clinent" target="1.8" />
+      <module name="config-server" target="1.8" />
       <module name="eureka-client" target="1.8" />
       <module name="eureka-server" target="1.8" />
-      <module name="springcloud-config-server" target="1.8" />
       <module name="springSetMeal" target="1.8" />
-      <module name="UserCenter" target="1.8" />
+      <module name="user-center" target="1.8" />
       <module name="zuul-center" target="1.8" />
     </bytecodeTargetLevel>
   </component>
