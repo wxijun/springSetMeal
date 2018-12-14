@@ -3,7 +3,14 @@ server:
 spring:
   application:
     name: Ribbon-Consumer
-#providers这个是自己命名的，ribbon.listOfServers这两个是规定的
-providers:
-  ribbon:
-    listOfServers: localhost:8889,localhost:8890
+##providers这个是自己命名的，ribbon.listOfServers这两个是规定的
+#providers:
+#  ribbon:
+#    listOfServers: localhost:8889,localhost:8890
+#
+#    #如果不想选用默认的轮询的负载均衡算法，在这里做如下配置
+#    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/, http://localhost:8762/eureka/

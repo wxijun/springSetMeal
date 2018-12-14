@@ -7,11 +7,11 @@ zuul:
   routes:
     user-center:
       path: /user-center/**
-      serviceId: user-center
+      serviceId: user-service
     eruake-client:
       path: /eruake-client/**
-      serviceId: eruake-client
+      serviceId: user-service
 eureka:
   client:
     serviceUrl:
-      defaulyZone: http://localhost:8889/eureka/,http://localhost:8890/eureka/
+      defaulyZone: http://localhost:8761/eureka/,http://localhost:8762/eureka/

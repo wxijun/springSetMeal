@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/springcloud-config-server/config-server.iml" filepath="$PROJECT_DIR$/springcloud-config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka-client/eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-spare/eureka-server-spare.iml" filepath="$PROJECT_DIR$/eureka-server-spare/eureka-server-spare.iml" />
       <module fileurl="file://$PROJECT_DIR$/springSetMeal.iml" filepath="$PROJECT_DIR$/springSetMeal.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/springSetMeal.iml" filepath="$PROJECT_DIR$/eureka-server/springSetMeal.iml" />
       <module fileurl="file://$PROJECT_DIR$/user-center/user-center.iml" filepath="$PROJECT_DIR$/user-center/user-center.iml" />
